@@ -255,10 +255,4 @@ npm run preview  # Preview production build
 
 ---
 
-## License
-
-MIT - Use freely for learning or commercial projects.
-
-## Author
-
-Built with ❤️ using the MERN stack
+-AKASH KUMBHAR
